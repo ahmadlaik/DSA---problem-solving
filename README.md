@@ -23,4 +23,12 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
