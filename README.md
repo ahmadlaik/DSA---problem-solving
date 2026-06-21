@@ -11,6 +11,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0050-powx-n/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1840-maximum-building-height/) | Hard |
 ## Hash Table
@@ -43,6 +44,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0050-powx-n/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
