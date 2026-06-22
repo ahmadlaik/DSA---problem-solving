@@ -15,6 +15,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0231-power-of-two](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0509-fibonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1840-maximum-building-height/) | Hard |
 ## Hash Table
@@ -56,6 +57,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0231-power-of-two](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +84,12 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0090-subsets-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0342-power-of-four/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
