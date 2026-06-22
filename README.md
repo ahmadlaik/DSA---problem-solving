@@ -31,6 +31,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0090-subsets-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1840-maximum-building-height/) | Hard |
@@ -64,8 +65,10 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
