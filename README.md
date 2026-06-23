@@ -35,6 +35,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0090-subsets-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -75,6 +76,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
