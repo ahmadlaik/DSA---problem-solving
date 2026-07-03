@@ -70,6 +70,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0020-valid-parentheses](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -106,5 +107,6 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
