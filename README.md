@@ -109,4 +109,13 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0143-reorder-list/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
