@@ -110,12 +110,22 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0020-valid-parentheses](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0901-online-stock-span](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0901-online-stock-span/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0901-online-stock-span](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
