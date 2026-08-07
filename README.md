@@ -46,6 +46,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0216-combination-sum-iii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0216-combination-sum-iii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -117,6 +118,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0225-implement-stack-using-queues](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Design
@@ -139,4 +141,8 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0901-online-stock-span/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
