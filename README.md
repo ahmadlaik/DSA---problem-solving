@@ -51,6 +51,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [1732-find-the-highest-altitude](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1840-maximum-building-height/) | Hard |
+| [2104-sum-of-subarray-ranges](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0735-asteroid-collision](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0503-next-greater-element-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
