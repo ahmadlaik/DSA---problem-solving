@@ -21,6 +21,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -76,6 +77,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0402-remove-k-digits](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0402-remove-k-digits/) | Medium |
@@ -159,4 +161,8 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
