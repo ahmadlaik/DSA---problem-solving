@@ -23,6 +23,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -85,6 +86,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0008-string-to-integer-atoi](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0402-remove-k-digits](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0402-remove-k-digits/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -172,6 +174,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
