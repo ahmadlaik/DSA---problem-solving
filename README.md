@@ -16,6 +16,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0326-power-of-three](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0509-fibonacci-number/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1840-maximum-building-height/) | Hard |
 ## Hash Table
@@ -28,6 +29,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0904-fruit-into-baskets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0907-sum-of-subarray-minimums](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1840-maximum-building-height/) | Hard |
@@ -65,6 +68,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -181,6 +185,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0904-fruit-into-baskets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
