@@ -22,6 +22,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -45,6 +46,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0001-two-sum/) | Easy |
 | [0039-combination-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0078-subsets/) | Medium |
