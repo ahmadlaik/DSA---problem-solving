@@ -125,6 +125,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Memoization
@@ -201,6 +202,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0094-binary-tree-inorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -209,6 +211,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -218,6 +221,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0094-binary-tree-inorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -229,5 +233,6 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
