@@ -201,6 +201,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -214,6 +215,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -225,6 +227,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -237,6 +240,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
