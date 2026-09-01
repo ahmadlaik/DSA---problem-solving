@@ -210,6 +210,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0145-binary-tree-postorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0145-binary-tree-postorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0145-binary-tree-postorder-traversal](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,4 +253,12 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
