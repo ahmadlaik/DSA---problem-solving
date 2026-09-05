@@ -38,11 +38,13 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0021-merge-two-sorted-lists](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
