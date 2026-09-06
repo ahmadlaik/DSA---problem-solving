@@ -25,6 +25,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0001-two-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0217-contains-duplicate](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -55,6 +56,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0084-largest-rectangle-in-histogram](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0216-combination-sum-iii/) | Medium |
+| [0217-contains-duplicate](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0735-asteroid-collision/) | Medium |
@@ -77,6 +79,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1840-maximum-building-height/) | Hard |
 ## Recursion
