@@ -13,6 +13,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0002-add-two-numbers](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0509-fibonacci-number/) | Easy |
@@ -26,6 +27,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -57,6 +59,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0090-subsets-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0735-asteroid-collision/) | Medium |
@@ -80,6 +83,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0268-missing-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1840-maximum-building-height/) | Hard |
 ## Recursion
@@ -126,6 +130,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0078-subsets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0342-power-of-four/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -200,6 +205,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0268-missing-number/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
