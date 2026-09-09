@@ -47,6 +47,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0216-combination-sum-iii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0735-asteroid-collision/) | Medium |
@@ -131,6 +133,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0090-subsets-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0342-power-of-four/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -206,6 +209,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -283,4 +287,12 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
