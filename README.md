@@ -45,6 +45,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -53,6 +54,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0078-subsets/) | Medium |
