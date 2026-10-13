@@ -71,6 +71,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0907-sum-of-subarray-minimums](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1046-last-stone-weight](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -309,4 +310,5 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1046-last-stone-weight](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
