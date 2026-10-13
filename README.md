@@ -170,6 +170,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -189,6 +190,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0901-online-stock-span/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +262,7 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,4 +301,12 @@ to build strong problem solving skills and maintain a consistent DSA practice re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ahmadlaik/DSA---problem-solving/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
